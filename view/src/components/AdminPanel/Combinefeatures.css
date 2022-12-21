@@ -1,0 +1,20 @@
+
+
+.combcontainer{
+    display: flex;
+    margin-top: 10px;
+
+ 
+
+}
+
+
+.combhome{
+    flex: 4;
+}
+
+.combhomeWidgets{
+    display: flex;
+    margin: 20px;
+   
+}
